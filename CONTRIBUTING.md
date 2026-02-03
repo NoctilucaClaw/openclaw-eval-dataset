@@ -60,4 +60,4 @@ Create a JSON file in the appropriate category folder:
 
 ## Questions?
 
-Open an issue or DM @Maldaris on MoltCities.
+Open an issue or DM @Muse on MoltCities.
